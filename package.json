@@ -1,0 +1,22 @@
+{
+  "name": "team-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicklb3/team-build.git"
+  },
+  "author": "Nicholas l Bonner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicklb3/team-build/issues"
+  },
+  "homepage": "https://github.com/Nicklb3/team-build#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
