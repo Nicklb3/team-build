@@ -9,6 +9,10 @@ A team profile generator is a tool that helps you create professional profiles f
 
 ![TEAM-Build](./img/Screenshot%202023-03-05%20at%2010.12.36%20PM.png)
 
+## Recording 
+
+https://drive.google.com/file/d/18NlMLM_iDu6lJ2A5EPKYJWyeWlH7JlTd/view?usp=sharing
+
 ---
 
 ## Table of Contents
