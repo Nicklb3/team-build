@@ -11,7 +11,7 @@ A team profile generator is a tool that helps you create professional profiles f
 
 ## Recording 
 
-https://drive.google.com/file/d/18NlMLM_iDu6lJ2A5EPKYJWyeWlH7JlTd/view?usp=sharing
+https://drive.google.com/file/d/1RXrPlgvnGcPYDIEapdDeJuyxn6UJFsdn/view?usp=sharing
 
 ---
 
